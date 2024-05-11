@@ -38,6 +38,12 @@ public:
 	}
 
 
+	void peek() {
+		
+	}
+
+
+
 
 
 };
